@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on projects for my **Country India**.
 
-- 💬 Ask me about Flutter, Java, Dart, OOPS and Data Structures.
+- 💬 Ask me about Flutter, Java, Dart, OOPS and Javascript/Typescript.
 
 - 😄 Pronouns: He/His
 
