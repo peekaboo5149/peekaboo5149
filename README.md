@@ -8,7 +8,7 @@
 
 ---
 
-- 🔭 I’m currently working on developing my flutter skills.
+- 🔭 I’m currently working on developing my flutter skills and Node js.
 
 - 🌱 I'm simultaneously trying to enhance my competitive coding skills
 
