@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peekaboo5149&label=views&color=blue&style=plastic%22%20" /></p>
 
 - I'm an Flutter Developer with an interest in competitive coding.💻
+- I'm also a 3⭐ coder in codechef.
 - I am a 3rd year undergraduate under the department of Electrical & Electronics Engineering in IEM, Kolkata.
   <br />
 
